@@ -1,16 +1,18 @@
-### Hi there 👋
+## Welcome to my github page!
 
-<!--
-**Smallant77/Smallant77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Non-Computer Science Major*
 
-Here are some ideas to get you started:
+**IT hasn't been long time since I started studying computer science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+def introduceMe():
+  print('Sex : {0}, Country : {1}'.format('XY', 'Korean'))
+  print('Collage Student since 2019')
+  
+  major = ['Biology']
+  major.append('Want to study Bioinformatics')
+  language = ['Python']
+  
+  print('Major : %s' %major)
+  print('Language : %s' %language)
+```
